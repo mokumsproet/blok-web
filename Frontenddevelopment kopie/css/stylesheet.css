@@ -1,0 +1,34 @@
+.nav {
+    background-color: #042c43;
+    width: 100%;
+}
+#logo {
+    width: 12em;
+    display: block;
+}
+.link {
+    background-color: white;
+    color: black;
+}
+img {
+  width: 100%;
+
+}
+article {
+  border-style: solid; mmij8un m n
+  border-color: #435768;
+  width: 20em;
+  padding: 1em;
+  background: lightgrey;
+  box-sizing: border-box;
+}
+body {
+    font-family: dfds-light;
+    font-size: 16px;
+    display: block;
+}
+button {
+    background-color: #CA661A;
+    color: white;
+}
+
